@@ -1,0 +1,62 @@
+!*********************************************************
+! 
+! Copyright (c) Digac.cc
+! https://github.com/etotakeo/AdGuardDNSPassList
+!
+!*********************************************************
+! DNS ad blocking whitelist for AdGuard Home
+! Title: DNS-Pass-List
+! Expires: 1 days
+!*********************************************************
+! url=https://raw.githubusercontent.com/etotakeo/AdGuardDNSPassList/master/DNS-Pass-List
+! version=2021031702
+!*********************************************************
+!--------Commonly used--------
+@@||digac.cc^
+@@||digac.top^
+@@||vnas.me^
+@@||digac.tk^
+@@||gaytube.com^
+@@||github.com^
+@@||s3.amazonaws.com^
+@@||2dbook.com^
+@@||4tern.com^
+@@||pthome.net^
+@@||tampermonkey.net^
+@@||qiong.ru^
+@@||zeronet.io^
+@@||aeventlog.beacon.qq.com^
+@@||oth.eve.mdt.qq.com^
+@@||stat.y.qq.com^
+@@||zmk.pw^
+
+!--------BT/PT--------
+@@||hddolby.com^
+@@||pttime.org^
+@@||hdatmos.club^
+@@||htpt.cc^
+@@||pt.soulvoice.club^
+@@||hdarea.co^
+@@||hdfans.org^
+@@||lemonhd.org^
+@@||haidan.video^
+@@||pthome.net^
+
+!--------Adult (Gay) used--------
+@@||gaytorrent.tw^
+@@||gaytube.com^
+@@||qafone.co^
+@@||qafone.org^
+@@||qafone.net^
+@@||gay-torrents.net^
+@@||gay-torrents.org^
+@@||boyfriendtv.com^
+@@||gaytorrent.ru^
+
+!--------WeChat public account platform--------
+@@||weixin.qq.com^
+
+!--------customize--------
+@@||tongji.digac.cc^
+@@||getssr.ga^
+@@||cloudflare.com^
